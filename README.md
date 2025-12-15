@@ -1,6 +1,6 @@
 # # Jurassic Park : Renaissance Horrifique 
 
-## Accroche et Public 
+## Accroche
 
 - Les humains ont créé quelque chose qu’ils ne peuvent ni comprendre, ni arrêter, et qui les chasse désormais.
 
